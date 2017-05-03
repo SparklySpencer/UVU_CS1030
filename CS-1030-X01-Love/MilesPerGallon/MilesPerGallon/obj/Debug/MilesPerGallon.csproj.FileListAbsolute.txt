@@ -1,0 +1,5 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.pdb

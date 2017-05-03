@@ -1,0 +1,9 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ButtonGame\ButtonGame\bin\Debug\ButtonGame.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ButtonGame\ButtonGame\bin\Debug\ButtonGame.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ButtonGame\ButtonGame\bin\Debug\ButtonGame.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ButtonGame\ButtonGame\obj\Debug\ButtonGame.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ButtonGame\ButtonGame\obj\Debug\ButtonGame.frmMain.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ButtonGame\ButtonGame\obj\Debug\ButtonGame.Properties.Resources.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ButtonGame\ButtonGame\obj\Debug\ButtonGame.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ButtonGame\ButtonGame\obj\Debug\ButtonGame.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ButtonGame\ButtonGame\obj\Debug\ButtonGame.pdb

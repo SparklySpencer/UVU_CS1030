@@ -1,0 +1,5 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\HelloWorldAssign\HelloWorldAssign\bin\Debug\HelloWorldAssign.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\HelloWorldAssign\HelloWorldAssign\bin\Debug\HelloWorldAssign.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\HelloWorldAssign\HelloWorldAssign\obj\Debug\HelloWorldAssign.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\HelloWorldAssign\HelloWorldAssign\obj\Debug\HelloWorldAssign.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\HelloWorldAssign\HelloWorldAssign\obj\Debug\HelloWorldAssign.pdb

@@ -1,0 +1,12 @@
+c:\users\spencer\documents\visual studio 2015\Projects\TempConversionWithClass\TempConversionWithClass\bin\Debug\TempConversionWithClass.exe.config
+c:\users\spencer\documents\visual studio 2015\Projects\TempConversionWithClass\TempConversionWithClass\bin\Debug\TempConversionWithClass.exe
+c:\users\spencer\documents\visual studio 2015\Projects\TempConversionWithClass\TempConversionWithClass\bin\Debug\TempConversionWithClass.pdb
+c:\users\spencer\documents\visual studio 2015\Projects\TempConversionWithClass\TempConversionWithClass\obj\Debug\TempConversionWithClass.csprojResolveAssemblyReference.cache
+c:\users\spencer\documents\visual studio 2015\Projects\TempConversionWithClass\TempConversionWithClass\obj\Debug\TempConversionWithClass.exe
+c:\users\spencer\documents\visual studio 2015\Projects\TempConversionWithClass\TempConversionWithClass\obj\Debug\TempConversionWithClass.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\TempConversionWithClass\TempConversionWithClass\bin\Debug\TempConversionWithClass.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\TempConversionWithClass\TempConversionWithClass\obj\Debug\TempConversionWithClass.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\TempConversionWithClass\TempConversionWithClass\obj\Debug\TempConversionWithClass.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\TempConversionWithClass\TempConversionWithClass\bin\Debug\TempConversionWithClass.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\TempConversionWithClass\TempConversionWithClass\bin\Debug\TempConversionWithClass.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\TempConversionWithClass\TempConversionWithClass\obj\Debug\TempConversionWithClass.csprojResolveAssemblyReference.cache

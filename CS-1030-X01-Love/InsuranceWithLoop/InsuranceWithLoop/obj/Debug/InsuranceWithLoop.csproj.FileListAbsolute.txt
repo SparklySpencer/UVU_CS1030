@@ -1,0 +1,5 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\InsuranceWithLoop\InsuranceWithLoop\bin\Debug\InsuranceWithLoop.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\InsuranceWithLoop\InsuranceWithLoop\bin\Debug\InsuranceWithLoop.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\InsuranceWithLoop\InsuranceWithLoop\obj\Debug\InsuranceWithLoop.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\InsuranceWithLoop\InsuranceWithLoop\obj\Debug\InsuranceWithLoop.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\InsuranceWithLoop\InsuranceWithLoop\obj\Debug\InsuranceWithLoop.pdb

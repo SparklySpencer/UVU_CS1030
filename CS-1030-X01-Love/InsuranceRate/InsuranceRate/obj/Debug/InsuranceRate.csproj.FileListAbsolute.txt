@@ -1,0 +1,5 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\InsuranceRate\InsuranceRate\bin\Debug\InsuranceRate.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\InsuranceRate\InsuranceRate\bin\Debug\InsuranceRate.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\InsuranceRate\InsuranceRate\obj\Debug\InsuranceRate.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\InsuranceRate\InsuranceRate\obj\Debug\InsuranceRate.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\InsuranceRate\InsuranceRate\obj\Debug\InsuranceRate.pdb

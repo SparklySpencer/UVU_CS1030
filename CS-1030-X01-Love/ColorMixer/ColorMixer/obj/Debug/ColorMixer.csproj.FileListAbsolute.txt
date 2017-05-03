@@ -1,0 +1,9 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ColorMixer\ColorMixer\bin\Debug\ColorMixer.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ColorMixer\ColorMixer\obj\Debug\ColorMixer.FrmColorMix.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Properties.Resources.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\ColorMixer\ColorMixer\obj\Debug\ColorMixer.pdb

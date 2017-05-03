@@ -1,0 +1,9 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\GUI_Labels\GUI_Labels\bin\Debug\GUI_Labels.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\GUI_Labels\GUI_Labels\bin\Debug\GUI_Labels.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\GUI_Labels\GUI_Labels\bin\Debug\GUI_Labels.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\GUI_Labels\GUI_Labels\obj\Debug\GUI_Labels.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\GUI_Labels\GUI_Labels\obj\Debug\GUI_Labels.Frm_GuiLabels.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\GUI_Labels\GUI_Labels\obj\Debug\GUI_Labels.Properties.Resources.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\GUI_Labels\GUI_Labels\obj\Debug\GUI_Labels.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\GUI_Labels\GUI_Labels\obj\Debug\GUI_Labels.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\GUI_Labels\GUI_Labels\obj\Debug\GUI_Labels.pdb

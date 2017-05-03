@@ -1,0 +1,9 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\AverageScores\AverageScores\bin\Debug\AverageScores.exe.config
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\AverageScores\AverageScores\bin\Debug\AverageScores.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\AverageScores\AverageScores\bin\Debug\AverageScores.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\AverageScores\AverageScores\obj\Debug\AverageScores.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\AverageScores\AverageScores\obj\Debug\AverageScores.frmMain.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\AverageScores\AverageScores\obj\Debug\AverageScores.Properties.Resources.resources
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\AverageScores\AverageScores\obj\Debug\AverageScores.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\AverageScores\AverageScores\obj\Debug\AverageScores.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\AverageScores\AverageScores\obj\Debug\AverageScores.pdb

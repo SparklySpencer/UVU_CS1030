@@ -1,0 +1,5 @@
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\CountToTen\CountToTen\obj\Debug\CountToTen.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\CountToTen\CountToTen\bin\Debug\CountToTen.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\CountToTen\CountToTen\bin\Debug\CountToTen.pdb
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\CountToTen\CountToTen\obj\Debug\CountToTen.exe
+C:\Users\Spencer\Documents\UVU\Spring2015\CS-1030-X01-Love\CountToTen\CountToTen\obj\Debug\CountToTen.pdb
